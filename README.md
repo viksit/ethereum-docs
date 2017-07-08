@@ -9,6 +9,7 @@ This repo contains two files,
 
 - A kindle compatible .mobi with a nice cover and formatting
 - iBooks compatible epub
+- PDF version for printing purposes
 
 
 ## TODO
